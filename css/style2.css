@@ -4,11 +4,15 @@
 
 .logo {
   position: absolute;
-  top: -13px;
+  top: -25px;
   left: 0px;
   z-index: 1;
 }
 
 .bg-about {
 	background-color: #565656;
+}
+
+.bg-btn {
+	background-color: #878787;
 }
